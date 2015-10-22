@@ -17,6 +17,6 @@ class Image
         int C;
         int L; 
         int **pixelValue;   
-}
+};
 
 #endif
